@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kozmiq/static/css/main.408a47c5.chunk.css",
+    "main.js": "/kozmiq/static/js/main.c4e444fe.chunk.js",
+    "main.js.map": "/kozmiq/static/js/main.c4e444fe.chunk.js.map",
+    "runtime-main.js": "/kozmiq/static/js/runtime-main.666970e2.js",
+    "runtime-main.js.map": "/kozmiq/static/js/runtime-main.666970e2.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/kozmiq/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4686054d.chunk.js": "/kozmiq/static/js/2.4686054d.chunk.js",
+    "static/js/2.4686054d.chunk.js.map": "/kozmiq/static/js/2.4686054d.chunk.js.map",
+    "index.html": "/kozmiq/index.html",
+    "precache-manifest.c37cb8df45968dd11c837bb06c716f2f.js": "/kozmiq/precache-manifest.c37cb8df45968dd11c837bb06c716f2f.js",
+    "service-worker.js": "/kozmiq/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/kozmiq/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.408a47c5.chunk.css.map": "/kozmiq/static/css/main.408a47c5.chunk.css.map",
+    "static/js/2.4686054d.chunk.js.LICENSE.txt": "/kozmiq/static/js/2.4686054d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.666970e2.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4686054d.chunk.js",
+    "static/css/main.408a47c5.chunk.css",
+    "static/js/main.c4e444fe.chunk.js"
+  ]
+}
